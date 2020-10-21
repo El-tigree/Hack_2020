@@ -207,7 +207,7 @@ function Dashboard() {
         <Box paddingBottom={24}>
 
         <Paper style={{background: "linear-gradient(#002b90, #006bc6)", height: '342px', width: '1120px', marginLeft: '24px', marginTop: '24px'}}>
-            <Typography style={{color: "#FFFFFF", paddingTop: '78px', paddingLeft: '40px'}} variant='h5'>
+            <Typography style={{fontWeight: 'bold', fontSize: '34px', color: "#FFFFFF", paddingTop: '78px', paddingLeft: '40px'}} variant='h5'>
               My Dashboard
             </Typography>
 
@@ -238,13 +238,13 @@ function Dashboard() {
         </Box>
 
       <Box paddingBottom={4}>
-      <Paper style={{marginLeft: '24px', padding: '16px'}} >
+      <Paper style={{marginLeft: '24px', padding: '16px', width: '1120px'}} >
       <img src={GraphOne} width="1040" height="548" />
       </Paper>
       </Box>
 
       <Box>
-      <Paper style={{marginLeft: '24px', padding: '16px'}} >
+      <Paper style={{marginLeft: '24px', padding: '16px', width: '1120px'}} >
       <img src={TransactionList} width="1040"  />
       </Paper>
       </Box>

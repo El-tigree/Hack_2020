@@ -176,7 +176,6 @@ const useStyles = makeStyles((theme) => ({
   cardGrid: {
     flexGrow: 1,
     position: 'relative',
-    zIndex: '11000',
     top: 120,
   },
   controls: {
@@ -458,7 +457,7 @@ function InfoView() {
         <Toolbar>
 		<MenuIcon />
           <img style={{marginLeft: '14px'}} src={logo} width='36px' height='44px' />
-          <img style={{marginLeft: '1070px'}} src={profile} width='256px' height='60px' />
+          <img style={{marginLeft: '1020px'}} src={profile} width='300px' height='60px' />
           
         </Toolbar>
       </AppBar>
@@ -494,10 +493,10 @@ function InfoView() {
       <main className={classes.content}>
         <Toolbar />
 
-        <Box paddingBottom={12}>
+        <Box paddingBottom={36}>
 
         <Paper style={{background: "linear-gradient(#002b90, #006bc6)", height: '342px', width: '1120px', marginLeft: '24px', marginTop: '24px'}}>
-            <Typography style={{color: "#FFFFFF", paddingTop: '78px', paddingLeft: '40px'}} variant='h5'>
+            <Typography style={{fontWeight: 'bold', fontSize: '34px', color: "#FFFFFF", paddingTop: '78px', paddingLeft: '40px'}} variant='h5'>
 			Apply for FundThat Investment
             </Typography>
 
@@ -535,6 +534,12 @@ function InfoView() {
 			
         </Paper>
         </Box>
+
+		<Box paddingBottom={28}>
+		<Typography style={{fontWeight: 'bold', fontSize: '34px', color: "#FFFFFF", paddingTop: '78px', paddingLeft: '40px'}} variant='h5'>
+			Apply for FundThat Investment
+            </Typography>
+		</Box>
 
       </main>
       

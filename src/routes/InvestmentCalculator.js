@@ -48,8 +48,8 @@ import InputAdornment from '@material-ui/core/InputAdornment';
 import FormHelperText from '@material-ui/core/FormHelperText';
 import MenuItem from '@material-ui/core/MenuItem';
 import Checkbox from '@material-ui/core/Checkbox';
-import AccDetails from './w3.png';
-import Confirm from './acc2.png';
+import AccDetails from './w4.png';
+import Confirm from './a5.png';
 
 //tool bar
 import MenuIcon from '@material-ui/icons/Menu';
@@ -175,7 +175,6 @@ const useStyles = makeStyles((theme) => ({
   cardGrid: {
     flexGrow: 1,
     position: 'relative',
-    zIndex: '11000',
     top: 120,
   },
   controls: {
@@ -238,8 +237,8 @@ function InvestmentCalculator() {
 		return <><Typography style={{color: "#000", fontWeight: 'bold', marginLeft: '100px'}} variant='h5'>
 		Investment Calculator
 		</Typography>
-		<Typography style={{color: "#000", marginLeft: '100px'}} variant='subtitle2'>
-		We with debit this account, when re-payment is due
+		<Typography style={{color: "#000", marginLeft: '100px', marginBottom: '18px'}} variant='subtitle2'>
+		Use our investment slider to set your required funding amount
 		</Typography>
 
 		<Paper style={{backgroundColor: "#004cac", height: '304px', width: '712px', marginLeft: '100px'}}>
@@ -260,7 +259,7 @@ function InvestmentCalculator() {
 				onChange={handleChange}
 				onChangeCommitted={changeCommited}
 				style={{color: '#fff'}}
-				step={100}
+				step={1000}
 				min={1000}
 				max={250000}
 				aria-labelledby="non-linear-slider"
@@ -314,7 +313,7 @@ function InvestmentCalculator() {
 					<p>Total</p>
 				</div>
 				<div style={{marginLeft: '415px', color: '#0079c9', fontWeight: 'bold'}}>
-					<p>R{fees+investmentCost}</p>
+					<p>R{fees+investmentCost+value+(300*6)}</p>
 				</div>
 			</Grid>
 			<Divider style={{backgroundColor: '#0079c9', width: '712px', marginLeft: '100px'}} />
@@ -325,7 +324,7 @@ function InvestmentCalculator() {
 		Debit this Account
 		</Typography>
 		<Typography style={{color: "#000", marginLeft: '100px'}} variant='subtitle2'>
-		We with debit this account, when re-payment is due
+		We will debit this account, when re-payment is due
 		</Typography>
 
 		<Paper style={{backgroundColor: "#f3fbff", height: '98px', width: '712px', marginTop: '18px', marginLeft: '100px'}}>
@@ -352,12 +351,12 @@ function InvestmentCalculator() {
 				Enter Supplier Details
 					</Typography>
 					<Typography style={{color: "#000",  marginLeft: '100px'}} variant='subtitle2'>
-					We with debit this account, when re-payment is due
+					Please add the suppliers banking details as funds will be paid out directly to their account from your Escrow Account.
 				</Typography>
 			</Box>
 
 			<Box paddingTop={4}>
-				<Typography style={{color: "#000", fontSize: '34px', fontWeight: 'normal',  marginLeft: '100px'}} variant='subtitle1'>
+				<Typography style={{color: "#000", fontSize: '24px', fontWeight: 'normal',  marginLeft: '100px'}} variant='subtitle1'>
 					To
 				</Typography>
 					
@@ -407,14 +406,14 @@ function InvestmentCalculator() {
 			</Box>
 
 			<Box>
-				<Typography style={{color: "#000", fontSize: '34px', fontWeight: 'normal',  marginLeft: '100px'}} variant='subtitle1'>
+				<Typography style={{color: "#000", fontSize: '24px', fontWeight: 'normal',  marginLeft: '100px'}} variant='subtitle1'>
 					Payment details
 				</Typography>
 					
 			</Box>
 
 			<Box paddingBottom={4}>
-				<TextField style={{marginLeft: '100px'}} id="outlined-basic" label="Amout" variant="outlined" />
+				<TextField disabled={true} value='100 000' style={{marginLeft: '100px'}} id="outlined-basic" label="Amount" variant="outlined" />
 			</Box>
 
 
@@ -429,8 +428,8 @@ function InvestmentCalculator() {
 		</Paper>
 		</>;
 		case 3:
-			return <><Paper elevation={0}>
-				<img src={Confirm} width="712px" />
+			return <><Paper style={{marginLeft: '170px'}} elevation={0}>
+				<img src={Confirm} width="423px" height="256" />
 			</Paper>
 			</>;
 	  default:
@@ -468,7 +467,7 @@ function InvestmentCalculator() {
         <Toolbar>
 		<MenuIcon />
           <img style={{marginLeft: '14px'}} src={logo} width='36px' height='44px' />
-          <img style={{marginLeft: '1070px'}} src={profile} width='256px' height='60px' />
+          <img style={{marginLeft: '1020px'}} src={profile} width='300px' height='60px' />
           
         </Toolbar>
       </AppBar>
@@ -507,7 +506,7 @@ function InvestmentCalculator() {
         <Box paddingBottom={12}>
 
         <Paper style={{background: "linear-gradient(#002b90, #006bc6)", height: '342px', width: '1120px', marginLeft: '24px', marginTop: '24px'}}>
-            <Typography style={{color: "#FFFFFF", paddingTop: '78px', paddingLeft: '40px'}} variant='h5'>
+            <Typography style={{fontWeight: 'bold', fontSize: '34px', color: "#FFFFFF", paddingTop: '78px', paddingLeft: '40px'}} variant='h5'>
 			Apply for FundThat Investment
             </Typography>
 
