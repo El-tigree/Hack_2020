@@ -1,0 +1,547 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="674" viewBox="0 0 1000 674">
+    <defs>
+        <path id="1nnt7tervg" d="M10.037 0h3.926c3.304 0 4.64.371 5.944 1.069 1.304.697 2.327 1.72 3.024 3.024C23.63 5.396 24 6.733 24 10.037v3.926c0 3.304-.371 4.64-1.069 5.944-.697 1.304-1.72 2.327-3.024 3.024-1.303.698-2.64 1.069-5.944 1.069h-3.926c-3.304 0-4.64-.371-5.944-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 18.604 0 17.267 0 13.963v-3.926c0-3.304.371-4.64 1.069-5.944.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.733 0 10.037 0z"/>
+        <path id="7g7gzqvzoi" d="M10.037 0h3.926c3.304 0 4.64.371 5.944 1.069 1.304.697 2.327 1.72 3.024 3.024C23.63 5.396 24 6.733 24 10.037v3.926c0 3.304-.371 4.64-1.069 5.944-.697 1.304-1.72 2.327-3.024 3.024-1.303.698-2.64 1.069-5.944 1.069h-3.926c-3.304 0-4.64-.371-5.944-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 18.604 0 17.267 0 13.963v-3.926c0-3.304.371-4.64 1.069-5.944.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.733 0 10.037 0z"/>
+        <path id="1k5f83i54k" d="M9.844 0h3.312c3.072 0 4.448.371 5.751 1.069 1.304.697 2.327 1.72 3.024 3.024C22.63 5.396 23 6.772 23 9.843v4.313c0 3.072-.371 4.448-1.069 5.751-.697 1.304-1.72 2.327-3.024 3.024-1.303.698-2.679 1.069-5.75 1.069H9.843c-3.072 0-4.448-.371-5.751-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 18.604 0 17.228 0 14.157V9.843c0-3.072.371-4.448 1.069-5.751.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.772 0 9.843 0z"/>
+        <path id="2k8pp7w82m" d="M0 0H23V24H0z"/>
+        <path id="d63eg8q5vr" d="M0 0L976 0 976 72 0 72z"/>
+        <path id="68bdjhxzbv" d="M10.256 0h19.488c3.567 0 4.86.371 6.163 1.069 1.304.697 2.327 1.72 3.024 3.024C39.63 5.396 40 6.689 40 10.256v19.488c0 3.567-.371 4.86-1.069 6.163-.697 1.304-1.72 2.327-3.024 3.024C34.604 39.63 33.311 40 29.744 40H10.256c-3.567 0-4.86-.371-6.163-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 34.604 0 33.311 0 29.744V10.256c0-3.567.371-4.86 1.069-6.163.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.689 0 10.256 0z"/>
+        <path id="9y201zuikx" d="M0 0L976 0 976 72 0 72z"/>
+        <path id="x4na0wszrB" d="M10.256 0h19.488c3.567 0 4.86.371 6.163 1.069 1.304.697 2.327 1.72 3.024 3.024C39.63 5.396 40 6.689 40 10.256v19.488c0 3.567-.371 4.86-1.069 6.163-.697 1.304-1.72 2.327-3.024 3.024C34.604 39.63 33.311 40 29.744 40H10.256c-3.567 0-4.86-.371-6.163-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 34.604 0 33.311 0 29.744V10.256c0-3.567.371-4.86 1.069-6.163.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.689 0 10.256 0z"/>
+        <path id="dwddiyttxC" d="M10.256 0h19.488c3.567 0 4.86.371 6.163 1.069 1.304.697 2.327 1.72 3.024 3.024C39.63 5.396 40 6.689 40 10.256v19.488c0 3.567-.371 4.86-1.069 6.163-.697 1.304-1.72 2.327-3.024 3.024C34.604 39.63 33.311 40 29.744 40H10.256c-3.567 0-4.86-.371-6.163-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 34.604 0 33.311 0 29.744V10.256c0-3.567.371-4.86 1.069-6.163.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.689 0 10.256 0z"/>
+        <path id="gf74ftb8rE" d="M0 0L976 0 976 72 0 72z"/>
+        <path id="vvmgqmbb0I" d="M10.256 0h19.488c3.567 0 4.86.371 6.163 1.069 1.304.697 2.327 1.72 3.024 3.024C39.63 5.396 40 6.689 40 10.256v19.488c0 3.567-.371 4.86-1.069 6.163-.697 1.304-1.72 2.327-3.024 3.024C34.604 39.63 33.311 40 29.744 40H10.256c-3.567 0-4.86-.371-6.163-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 34.604 0 33.311 0 29.744V10.256c0-3.567.371-4.86 1.069-6.163.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.689 0 10.256 0z"/>
+        <path id="0q0zr112tK" d="M0 0L976 0 976 72 0 72z"/>
+        <path id="vqemajwr7O" d="M10.256 0h19.488c3.567 0 4.86.371 6.163 1.069 1.304.697 2.327 1.72 3.024 3.024C39.63 5.396 40 6.689 40 10.256v19.488c0 3.567-.371 4.86-1.069 6.163-.697 1.304-1.72 2.327-3.024 3.024C34.604 39.63 33.311 40 29.744 40H10.256c-3.567 0-4.86-.371-6.163-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 34.604 0 33.311 0 29.744V10.256c0-3.567.371-4.86 1.069-6.163.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.689 0 10.256 0z"/>
+        <path id="zefbrbbagQ" d="M0 0L976 0 976 72 0 72z"/>
+        <path id="egv50vfdpU" d="M10.256 0h19.488c3.567 0 4.86.371 6.163 1.069 1.304.697 2.327 1.72 3.024 3.024C39.63 5.396 40 6.689 40 10.256v19.488c0 3.567-.371 4.86-1.069 6.163-.697 1.304-1.72 2.327-3.024 3.024C34.604 39.63 33.311 40 29.744 40H10.256c-3.567 0-4.86-.371-6.163-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 34.604 0 33.311 0 29.744V10.256c0-3.567.371-4.86 1.069-6.163.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.689 0 10.256 0z"/>
+        <path id="xitp6ugt0W" d="M0 0L976 0 976 72 0 72z"/>
+        <path id="yrkz21rfkaa" d="M10.256 0h19.488c3.567 0 4.86.371 6.163 1.069 1.304.697 2.327 1.72 3.024 3.024C39.63 5.396 40 6.689 40 10.256v19.488c0 3.567-.371 4.86-1.069 6.163-.697 1.304-1.72 2.327-3.024 3.024C34.604 39.63 33.311 40 29.744 40H10.256c-3.567 0-4.86-.371-6.163-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 34.604 0 33.311 0 29.744V10.256c0-3.567.371-4.86 1.069-6.163.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.689 0 10.256 0z"/>
+        <path id="yk7tciw5uae" d="M300 0c11.046 0 20 8.954 20 20s-8.954 20-20 20H20C8.954 40 0 31.046 0 20S8.954 0 20 0h280zm0 1H20C9.507 1 1 9.507 1 20s8.507 19 19 19h280c10.493 0 19-8.507 19-19s-8.507-19-19-19z"/>
+        <rect id="3at2md9sub" width="1040" height="706" x="0" y="0" rx="16"/>
+        <rect id="odcip4bjgc" width="32" height="32" x="0" y="0" rx="16"/>
+        <rect id="rzvkypuzae" width="32" height="32" x="0" y="0" rx="16"/>
+        <rect id="58s41h0ahn" width="32" height="32" x="0" y="0" rx="16"/>
+        <rect id="olobahb3jp" width="32" height="32" x="0" y="0" rx="16"/>
+        <rect id="18ho2luemt" width="40" height="40" x="0" y="0" rx="20"/>
+        <rect id="iki4fpgojz" width="40" height="40" x="0" y="0" rx="20"/>
+        <rect id="ikkhfb6kfG" width="40" height="40" x="0" y="0" rx="20"/>
+        <rect id="nqnivf236M" width="40" height="40" x="0" y="0" rx="20"/>
+        <rect id="zdg6lh9tsS" width="40" height="40" x="0" y="0" rx="20"/>
+        <rect id="akouzfokiY" width="40" height="40" x="0" y="0" rx="20"/>
+        <rect id="bj1j0w1t9ac" width="320" height="40" x="0" y="0" rx="20"/>
+        <filter id="zsq2d5cfra" width="103%" height="104.4%" x="-1.5%" y="-1.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-348 -1172) translate(328 584) translate(0 572)">
+                        <use fill="#000" filter="url(#zsq2d5cfra)" xlink:href="#3at2md9sub"/>
+                        <use fill="#FFF" xlink:href="#3at2md9sub"/>
+                    </g>
+                    <g>
+                        <g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(176) translate(40)">
+                                    <mask id="y05bmptfud" fill="#fff">
+                                        <use xlink:href="#odcip4bjgc"/>
+                                    </mask>
+                                    <path d="M0 0H32V32H0z" mask="url(#y05bmptfud)"/>
+                                </g>
+                                <g fill="#0079C9">
+                                    <path d="M4.83 6.175L8.653 10 4.83 13.825 6.004 15l5-5-5-5L4.83 6.175zM13.503 5h1.667v10h-1.667V5z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(176) translate(40) translate(6 6)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(176)">
+                                    <mask id="rwprt5hx5f" fill="#fff">
+                                        <use xlink:href="#rzvkypuzae"/>
+                                    </mask>
+                                    <path d="M0 0H32V32H0z" mask="url(#rwprt5hx5f)"/>
+                                </g>
+                                <g fill="#0079C9">
+                                    <path d="M8.088 5L6.912 6.175 10.729 10 6.912 13.825 8.088 15 13.088 10z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(176) translate(6 6)"/>
+                                </g>
+                            </g>
+                        </g>
+                        <g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(80 4) translate(64)">
+                                    <mask id="imb4o189th" fill="#fff">
+                                        <use xlink:href="#1nnt7tervg"/>
+                                    </mask>
+                                    <path d="M0 0H24V24H0z" mask="url(#imb4o189th)"/>
+                                </g>
+                                <text fill="#0079C9" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(80 4) translate(64)">
+                                    <tspan x="8.107" y="15">3</tspan>
+                                </text>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(80 4) translate(32)">
+                                    <mask id="ido9mkkagj" fill="#fff">
+                                        <use xlink:href="#7g7gzqvzoi"/>
+                                    </mask>
+                                    <path d="M0 0H24V24H0z" mask="url(#ido9mkkagj)"/>
+                                </g>
+                                <text fill="#0079C9" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(80 4) translate(32)">
+                                    <tspan x="8.107" y="15">2</tspan>
+                                </text>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(80 4) translate(.5)">
+                                    <mask id="b6ksm3og3l" fill="#fff">
+                                        <use xlink:href="#1k5f83i54k"/>
+                                    </mask>
+                                    <use fill="#FFF" xlink:href="#1k5f83i54k"/>
+                                    <g mask="url(#b6ksm3og3l)">
+                                        <use fill="#0079C9" xlink:href="#2k8pp7w82m"/>
+                                        <use fill="#FFF" fill-opacity=".85" xlink:href="#2k8pp7w82m"/>
+                                    </g>
+                                </g>
+                                <text fill="#104B7E" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(80 4)">
+                                    <tspan x="8.348" y="15">1</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(40)">
+                                    <mask id="twnrrgt5ko" fill="#fff">
+                                        <use xlink:href="#58s41h0ahn"/>
+                                    </mask>
+                                    <path d="M0 0H32V32H0z" mask="url(#twnrrgt5ko)"/>
+                                </g>
+                                <g fill="#DEDEDE">
+                                    <path d="M13.088 6.175L11.912 5 6.912 10 11.912 15 13.088 13.825 9.271 10z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(40) translate(6 6)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645)">
+                                    <mask id="pu2a26u55q" fill="#fff">
+                                        <use xlink:href="#olobahb3jp"/>
+                                    </mask>
+                                    <path d="M0 0H32V32H0z" mask="url(#pu2a26u55q)"/>
+                                </g>
+                                <g fill="#DEDEDE">
+                                    <path d="M15.17 13.825L11.347 10l3.825-3.825L13.996 5l-5 5 5 5 1.175-1.175zM4.83 5h1.666v10H4.829V5z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(396 645) translate(6 6)"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g>
+                        <g>
+                            <path d="M0 0H1040V72H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360)"/>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360) translate(32)">
+                                    <mask id="e5vc04gr3s" fill="#fff">
+                                        <use xlink:href="#d63eg8q5vr"/>
+                                    </mask>
+                                    <path fill="#FFF" d="M0 0H976V72H0z" mask="url(#e5vc04gr3s)"/>
+                                </g>
+                                <g fill="#DEDEDE">
+                                    <path d="M0 0H976V1H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360) translate(32) translate(0 71)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360) translate(960 16)">
+                                    <mask id="elccbfr1mu" fill="#fff">
+                                        <use xlink:href="#18ho2luemt"/>
+                                    </mask>
+                                    <path d="M0 0H40V40H0z" mask="url(#elccbfr1mu)"/>
+                                </g>
+                                <g fill="#333">
+                                    <path d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360) translate(960 16) translate(8 8)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360) translate(80 16)">
+                                    <mask id="1gv3xa8cqw" fill="#fff">
+                                        <use xlink:href="#68bdjhxzbv"/>
+                                    </mask>
+                                    <path fill="#03A" d="M0 0H40V40H0z" mask="url(#1gv3xa8cqw)"/>
+                                </g>
+                                <g fill="#FFF">
+                                    <path d="M21.354 7.583V5.208c0-1.146-.937-2.083-2.083-2.083H4.687c-1.156 0-2.083.938-2.083 2.083v14.584c0 1.145.927 2.083 2.083 2.083h14.584c1.146 0 2.083-.938 2.083-2.083v-2.375c.615-.365 1.042-1.021 1.042-1.792v-6.25c0-.77-.427-1.427-1.042-1.792zm-1.041 1.792v6.25H13.02v-6.25h7.291zM4.688 19.792V5.208H19.27v2.084h-6.25c-1.146 0-2.084.937-2.084 2.083v6.25c0 1.146.938 2.083 2.084 2.083h6.25v2.084H4.687zm11.458-8.855c-.863 0-1.563.7-1.563 1.563s.7 1.563 1.563 1.563 1.562-.7 1.562-1.563-.7-1.563-1.562-1.563z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360) translate(80 16) translate(7.5 7.5)"/>
+                                </g>
+                            </g>
+                            <g fill="#616161">
+                                <g>
+                                    <path d="M20 7.74l-7.19-.62L10 .5 7.19 7.13 0 7.74l5.46 4.73-1.64 7.03L10 15.77l6.18 3.73-1.63-7.03L20 7.74zM10 13.9l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L10 4.6l1.71 4.04 4.38.38-3.32 2.88 1 4.28L10 13.9z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360) translate(32 16) translate(10 10)"/>
+                                </g>
+                            </g>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360)">
+                                <tspan x="703.36" y="36">5,448.40</tspan>
+                            </text>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360)">
+                                <tspan x="843.36" y="36">5,448.40</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360)">
+                                <tspan x="343" y="39">DSFW85P</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360)">
+                                <tspan x="450" y="39">Current </tspan>
+                            </text>
+                            <text fill="#616161" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360)">
+                                <tspan x="136" y="51">FR18 8388 3538 32IH 3C</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 360)">
+                                <tspan x="136" y="32">Milk Bar Current Account</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <path d="M0 0H1040V72H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288)"/>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288) translate(32)">
+                                    <mask id="dzfsq7nhqy" fill="#fff">
+                                        <use xlink:href="#9y201zuikx"/>
+                                    </mask>
+                                    <path fill="#FFF" d="M0 0H976V72H0z" mask="url(#dzfsq7nhqy)"/>
+                                </g>
+                                <g fill="#DEDEDE">
+                                    <path d="M0 0H976V1H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288) translate(32) translate(0 71)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288) translate(960 16)">
+                                    <mask id="2ak0xowjtA" fill="#fff">
+                                        <use xlink:href="#iki4fpgojz"/>
+                                    </mask>
+                                    <path d="M0 0H40V40H0z" mask="url(#2ak0xowjtA)"/>
+                                </g>
+                                <g fill="#333">
+                                    <path d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288) translate(960 16) translate(8 8)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288) translate(72 16)">
+                                    <use fill="#FFF" xlink:href="#x4na0wszrB"/>
+                                </g>
+                                <g fill="#FFF">
+                                    <path d="M21.354 7.583V5.208c0-1.146-.937-2.083-2.083-2.083H4.687c-1.156 0-2.083.938-2.083 2.083v14.584c0 1.145.927 2.083 2.083 2.083h14.584c1.146 0 2.083-.938 2.083-2.083v-2.375c.615-.365 1.042-1.021 1.042-1.792v-6.25c0-.77-.427-1.427-1.042-1.792zm-1.041 1.792v6.25H13.02v-6.25h7.291zM4.688 19.792V5.208H19.27v2.084h-6.25c-1.146 0-2.084.937-2.084 2.083v6.25c0 1.146.938 2.083 2.084 2.083h6.25v2.084H4.687zm11.458-8.855c-.863 0-1.563.7-1.563 1.563s.7 1.563 1.563 1.563 1.562-.7 1.562-1.563-.7-1.563-1.562-1.563z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288) translate(72 16) translate(7.5 7.5)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288) translate(80 16)">
+                                    <mask id="999dw5t0bD" fill="#fff">
+                                        <use xlink:href="#dwddiyttxC"/>
+                                    </mask>
+                                    <path fill="#03A" d="M0 0H40V40H0z" mask="url(#999dw5t0bD)"/>
+                                </g>
+                                <g fill="#FFF">
+                                    <path d="M21.354 7.583V5.208c0-1.146-.937-2.083-2.083-2.083H4.687c-1.156 0-2.083.938-2.083 2.083v14.584c0 1.145.927 2.083 2.083 2.083h14.584c1.146 0 2.083-.938 2.083-2.083v-2.375c.615-.365 1.042-1.021 1.042-1.792v-6.25c0-.77-.427-1.427-1.042-1.792zm-1.041 1.792v6.25H13.02v-6.25h7.291zM4.688 19.792V5.208H19.27v2.084h-6.25c-1.146 0-2.084.937-2.084 2.083v6.25c0 1.146.938 2.083 2.084 2.083h6.25v2.084H4.687zm11.458-8.855c-.863 0-1.563.7-1.563 1.563s.7 1.563 1.563 1.563 1.562-.7 1.562-1.563-.7-1.563-1.562-1.563z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288) translate(80 16) translate(7.5 7.5)"/>
+                                </g>
+                            </g>
+                            <g fill="#616161">
+                                <g>
+                                    <path d="M10 15.77L16.18 19.5 14.54 12.47 20 7.74 12.81 7.13 10 0.5 7.19 7.13 0 7.74 5.46 12.47 3.82 19.5z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288) translate(32 16) translate(10 10)"/>
+                                </g>
+                            </g>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288)">
+                                <tspan x="675.402" y="36">5,448,257.40</tspan>
+                            </text>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288)">
+                                <tspan x="846.402" y="36">5,448,257.40</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288)">
+                                <tspan x="343" y="39">OKSDF3J</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288)">
+                                <tspan x="450" y="39">Current</tspan>
+                            </text>
+                            <text fill="#616161" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288)">
+                                <tspan x="136" y="49">FR18 8388 3538 32IH 3C</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 288)">
+                                <tspan x="136" y="30">Current Account</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <path d="M0 0H1040V72H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72)"/>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72) translate(32)">
+                                    <mask id="8cbglf4wdF" fill="#fff">
+                                        <use xlink:href="#gf74ftb8rE"/>
+                                    </mask>
+                                    <path fill="#FFF" d="M0 0H976V72H0z" mask="url(#8cbglf4wdF)"/>
+                                </g>
+                                <g fill="#DEDEDE">
+                                    <path d="M0 0H976V1H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72) translate(32) translate(0 71)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72) translate(960 16)">
+                                    <mask id="h2im7mo7pH" fill="#fff">
+                                        <use xlink:href="#ikkhfb6kfG"/>
+                                    </mask>
+                                    <path d="M0 0H40V40H0z" mask="url(#h2im7mo7pH)"/>
+                                </g>
+                                <g fill="#333">
+                                    <path d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72) translate(960 16) translate(8 8)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72) translate(80 16)">
+                                    <mask id="dkkdy43maJ" fill="#fff">
+                                        <use xlink:href="#vvmgqmbb0I"/>
+                                    </mask>
+                                    <path fill="#03A" d="M0 0H40V40H0z" mask="url(#dkkdy43maJ)"/>
+                                </g>
+                                <g fill="#FFF">
+                                    <path d="M21.354 7.583V5.208c0-1.146-.937-2.083-2.083-2.083H4.687c-1.156 0-2.083.938-2.083 2.083v14.584c0 1.145.927 2.083 2.083 2.083h14.584c1.146 0 2.083-.938 2.083-2.083v-2.375c.615-.365 1.042-1.021 1.042-1.792v-6.25c0-.77-.427-1.427-1.042-1.792zm-1.041 1.792v6.25H13.02v-6.25h7.291zM4.688 19.792V5.208H19.27v2.084h-6.25c-1.146 0-2.084.937-2.084 2.083v6.25c0 1.146.938 2.083 2.084 2.083h6.25v2.084H4.687zm11.458-8.855c-.863 0-1.563.7-1.563 1.563s.7 1.563 1.563 1.563 1.562-.7 1.562-1.563-.7-1.563-1.562-1.563z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72) translate(80 16) translate(7.5 7.5)"/>
+                                </g>
+                            </g>
+                            <g fill="#616161">
+                                <g>
+                                    <path d="M20 7.74l-7.19-.62L10 .5 7.19 7.13 0 7.74l5.46 4.73-1.64 7.03L10 15.77l6.18 3.73-1.63-7.03L20 7.74zM10 13.9l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L10 4.6l1.71 4.04 4.38.38-3.32 2.88 1 4.28L10 13.9z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72) translate(32 16) translate(10 10)"/>
+                                </g>
+                            </g>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72)">
+                                <tspan x="687.414" y="36">448,257.40</tspan>
+                            </text>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72)">
+                                <tspan x="847.414" y="36">448,257.40</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72)">
+                                <tspan x="343" y="39">OKSDF3J</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72)">
+                                <tspan x="450" y="39">Current</tspan>
+                            </text>
+                            <text fill="#616161" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72)">
+                                <tspan x="136" y="49">FR18 8388 3538 32IH 3C</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 72)">
+                                <tspan x="136" y="30">Milk Bar Current Account</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <path d="M0 0H1040V72H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144)"/>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144) translate(32)">
+                                    <mask id="o79fi7q0dL" fill="#fff">
+                                        <use xlink:href="#0q0zr112tK"/>
+                                    </mask>
+                                    <path fill="#FFF" d="M0 0H976V72H0z" mask="url(#o79fi7q0dL)"/>
+                                </g>
+                                <g fill="#DEDEDE">
+                                    <path d="M0 0H976V1H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144) translate(32) translate(0 71)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144) translate(960 16)">
+                                    <mask id="azp0gg1lsN" fill="#fff">
+                                        <use xlink:href="#nqnivf236M"/>
+                                    </mask>
+                                    <path d="M0 0H40V40H0z" mask="url(#azp0gg1lsN)"/>
+                                </g>
+                                <g fill="#333">
+                                    <path d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144) translate(960 16) translate(8 8)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144) translate(80 16)">
+                                    <mask id="dwzhgrc4hP" fill="#fff">
+                                        <use xlink:href="#vqemajwr7O"/>
+                                    </mask>
+                                    <path fill="#03A" d="M0 0H40V40H0z" mask="url(#dwzhgrc4hP)"/>
+                                </g>
+                                <g fill="#FFF">
+                                    <path d="M16.667 6.25L19.052 8.635 13.969 13.719 9.802 9.552 2.083 17.281 3.552 18.75 9.802 12.5 13.969 16.667 20.531 10.115 22.917 12.5 22.917 6.25z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144) translate(80 16) translate(7.5 7.5)"/>
+                                </g>
+                            </g>
+                            <g fill="#616161">
+                                <g>
+                                    <path d="M20 7.74l-7.19-.62L10 .5 7.19 7.13 0 7.74l5.46 4.73-1.64 7.03L10 15.77l6.18 3.73-1.63-7.03L20 7.74zM10 13.9l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L10 4.6l1.71 4.04 4.38.38-3.32 2.88 1 4.28L10 13.9z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144) translate(32 16) translate(10 10)"/>
+                                </g>
+                            </g>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144)">
+                                <tspan x="675.402" y="36">5,448,257.40</tspan>
+                            </text>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144)">
+                                <tspan x="845.402" y="36">5,448,257.40</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144)">
+                                <tspan x="343" y="39">HANDFIH</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144)">
+                                <tspan x="450" y="39">Investment</tspan>
+                            </text>
+                            <text fill="#616161" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144)">
+                                <tspan x="136" y="51">FR18 8388 3538 32IH 3C</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 144)">
+                                <tspan x="136" y="32">Investment Account</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <path d="M0 0H1040V72H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216)"/>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216) translate(32)">
+                                    <mask id="so167rpr2R" fill="#fff">
+                                        <use xlink:href="#zefbrbbagQ"/>
+                                    </mask>
+                                    <path fill="#FFF" d="M0 0H976V72H0z" mask="url(#so167rpr2R)"/>
+                                </g>
+                                <g fill="#DEDEDE">
+                                    <path d="M0 0H976V1H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216) translate(32) translate(0 71)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216) translate(960 16)">
+                                    <mask id="tq2xcfvwzT" fill="#fff">
+                                        <use xlink:href="#zdg6lh9tsS"/>
+                                    </mask>
+                                    <path d="M0 0H40V40H0z" mask="url(#tq2xcfvwzT)"/>
+                                </g>
+                                <g fill="#333">
+                                    <path d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216) translate(960 16) translate(8 8)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216) translate(80 17)">
+                                    <mask id="87zikbb37V" fill="#fff">
+                                        <use xlink:href="#egv50vfdpU"/>
+                                    </mask>
+                                    <path fill="#03A" d="M0 0H40V40H0z" mask="url(#87zikbb37V)"/>
+                                </g>
+                                <g fill="#FFF">
+                                    <path d="M11.458 17.708c0 .573.47 1.042 1.042 1.042.573 0 1.042-.469 1.042-1.042 0-.573-.47-1.041-1.042-1.041-.573 0-1.042.468-1.042 1.041zm0-14.583v4.167h2.084v-2c3.53.51 6.25 3.53 6.25 7.208 0 4.031-3.26 7.292-7.292 7.292-4.031 0-7.292-3.26-7.292-7.292 0-1.75.615-3.354 1.646-4.604l5.646 5.646 1.469-1.47L6.885 4.99v.02c-2.28 1.709-3.76 4.417-3.76 7.49 0 5.177 4.188 9.375 9.375 9.375 5.177 0 9.375-4.198 9.375-9.375S17.677 3.125 12.5 3.125h-1.042zM18.75 12.5c0-.573-.469-1.042-1.042-1.042-.573 0-1.041.47-1.041 1.042 0 .573.468 1.042 1.041 1.042s1.042-.47 1.042-1.042zm-12.5 0c0 .573.469 1.042 1.042 1.042.573 0 1.041-.47 1.041-1.042 0-.573-.468-1.042-1.041-1.042s-1.042.47-1.042 1.042z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216) translate(80 17) translate(7.5 7.5)"/>
+                                </g>
+                            </g>
+                            <g fill="#616161">
+                                <g>
+                                    <path d="M20 7.74l-7.19-.62L10 .5 7.19 7.13 0 7.74l5.46 4.73-1.64 7.03L10 15.77l6.18 3.73-1.63-7.03L20 7.74zM10 13.9l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L10 4.6l1.71 4.04 4.38.38-3.32 2.88 1 4.28L10 13.9z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216) translate(32 17) translate(10 10)"/>
+                                </g>
+                            </g>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216)">
+                                <tspan x="695.968" y="36">52,958.50</tspan>
+                            </text>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216)">
+                                <tspan x="845.968" y="36">52,958.50</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216)">
+                                <tspan x="343" y="39">OKOYFIH</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216)">
+                                <tspan x="450" y="39">Loan</tspan>
+                            </text>
+                            <text fill="#616161" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216)">
+                                <tspan x="136" y="51">FR18 8388 3538 32IH 3C</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(0 216)">
+                                <tspan x="136" y="32">Loan</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <path d="M0 0H1040V72H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183)"/>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(32)">
+                                    <mask id="73keckbyzX" fill="#fff">
+                                        <use xlink:href="#xitp6ugt0W"/>
+                                    </mask>
+                                    <path fill="#FFF" d="M0 0H976V72H0z" mask="url(#73keckbyzX)"/>
+                                </g>
+                                <g fill="#DEDEDE">
+                                    <path d="M0 0H976V1H0z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(32) translate(0 71)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(960 16)">
+                                    <mask id="c50vg426bZ" fill="#fff">
+                                        <use xlink:href="#akouzfokiY"/>
+                                    </mask>
+                                    <path d="M0 0H40V40H0z" mask="url(#c50vg426bZ)"/>
+                                </g>
+                                <g fill="#333">
+                                    <path d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(960 16) translate(8 8)"/>
+                                </g>
+                            </g>
+                            <g>
+                                <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(80 16)">
+                                    <mask id="41z1bkmmwab" fill="#fff">
+                                        <use xlink:href="#yrkz21rfkaa"/>
+                                    </mask>
+                                    <path fill="#03A" d="M0 0H40V40H0z" mask="url(#41z1bkmmwab)"/>
+                                </g>
+                                <g fill="#FFF">
+                                    <path d="M11.458 4.688v5.822H7.812l4.688 4.688 4.688-4.688h-3.646V4.688h-2.084zM6.25 14.063c0 3.447 2.802 6.25 6.25 6.25s6.25-2.803 6.25-6.25h-2.083c0 2.302-1.865 4.166-4.167 4.166-2.302 0-4.167-1.864-4.167-4.166H6.25z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(80 16) translate(7.5 7.5)"/>
+                                </g>
+                            </g>
+                            <g fill="#616161">
+                                <g>
+                                    <path d="M10 15.77L16.18 19.5 14.54 12.47 20 7.74 12.81 7.13 10 0.5 7.19 7.13 0 7.74 5.46 12.47 3.82 19.5z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183) translate(32 16) translate(10 10)"/>
+                                </g>
+                            </g>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183)">
+                                <tspan x="679.868" y="36">4,430,117.70</tspan>
+                            </text>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183)">
+                                <tspan x="849.868" y="36">4,430,117.70</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183)">
+                                <tspan x="343" y="39">OKOYFIH</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183)">
+                                <tspan x="450" y="39">Savings</tspan>
+                            </text>
+                            <text fill="#616161" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183)">
+                                <tspan x="136" y="49">FR18 8388 3538 32IH 3C</tspan>
+                            </text>
+                            <text fill="#000" font-family="Helvetica" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(0 183)">
+                                <tspan x="136" y="30">Milk Bar Savings </tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g>
+                        <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(32 83)">
+                            <mask id="ld9s1c64fad" fill="#fff">
+                                <use xlink:href="#bj1j0w1t9ac"/>
+                            </mask>
+                            <use fill="#FFF" xlink:href="#bj1j0w1t9ac"/>
+                            <path fill="#FFF" d="M0 0H320V40H0z" mask="url(#ld9s1c64fad)"/>
+                        </g>
+                        <g transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(32 83)">
+                            <use fill="#C5C5C5" xlink:href="#yk7tciw5uae"/>
+                        </g>
+                        <text fill="#616161" font-family="Helvetica" font-size="16" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(32 83)">
+                            <tspan x="48" y="23">Search</tspan>
+                        </text>
+                        <g fill="#616161">
+                            <path d="M15.755 14.255h-.79l-.28-.27c.98-1.14 1.57-2.62 1.57-4.23 0-3.59-2.91-6.5-6.5-6.5s-6.5 2.91-6.5 6.5 2.91 6.5 6.5 6.5c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99 1.49-1.49-4.99-5zm-6 0c-2.49 0-4.5-2.01-4.5-4.5s2.01-4.5 4.5-4.5 4.5 2.01 4.5 4.5-2.01 4.5-4.5 4.5z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(32 83) translate(16 8)"/>
+                        </g>
+                    </g>
+                    <g>
+                        <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(84 148)">
+                            <tspan x="259" y="13">Ref</tspan>
+                        </text>
+                        <text fill="#000" font-family="BentonSans-Light, BentonSans" font-size="14" font-weight="300" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(84 148)">
+                            <tspan x="366" y="13">Account type</tspan>
+                        </text>
+                        <text fill="#000" font-family="BentonSans-Light, BentonSans" font-size="14" font-weight="300" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(84 148)">
+                            <tspan x="598.85" y="13">Available (R) </tspan>
+                        </text>
+                        <text fill="#000" font-family="BentonSans-Light, BentonSans" font-size="14" font-weight="300" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(84 148)">
+                            <tspan x="768.85" y="13">Available (R) </tspan>
+                        </text>
+                        <g>
+                            <text fill="#000" font-family="BentonSans" font-size="14" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(84 148)">
+                                <tspan x=".12" y="12">Name, number</tspan>
+                            </text>
+                            <g fill="#333">
+                                <path d="M7 9.5L12 14.5 17 9.5z" transform="translate(-348 -1172) translate(328 584) translate(0 572) translate(84 148) translate(105)"/>
+                            </g>
+                        </g>
+                    </g>
+                    <text fill="#000" font-family="BentonSans-Light, BentonSans" font-size="24" font-weight="300" transform="translate(-348 -1172) translate(328 584) translate(0 572)">
+                        <tspan x="32" y="51">Transactions</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,228 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="516" viewBox="0 0 1000 516">
+    <defs>
+        <path id="sd2e0ogcec" d="M10.256 0h239.488c3.567 0 4.86.371 6.163 1.069 1.304.697 2.327 1.72 3.024 3.024.698 1.303 1.069 2.596 1.069 6.163v19.488c0 3.567-.371 4.86-1.069 6.163-.697 1.304-1.72 2.327-3.024 3.024-1.303.698-2.596 1.069-6.163 1.069H10.256c-3.567 0-4.86-.371-6.163-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 34.604 0 33.311 0 29.744V10.256c0-3.567.371-4.86 1.069-6.163.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.689 0 10.256 0z"/>
+        <path id="uchyrk1zue" d="M252 0c4.418 0 8 3.582 8 8v24c0 4.418-3.582 8-8 8H8c-4.418 0-8-3.582-8-8V8c0-4.418 3.582-8 8-8h244zm0 1H8C4.134 1 1 4.134 1 8v24c0 3.866 3.134 7 7 7h244c3.866 0 7-3.134 7-7V8c0-3.866-3.134-7-7-7z"/>
+        <path id="3vfffp8iwh" d="M55 469.263c.442 0 .8.354.8.79v17.368h6.4v-9.617c0-.436.358-.79.8-.79.442 0 .8.354.8.79v9.617h6.4v-14.785c0-.436.358-.79.8-.79.442 0 .8.354.8.79v14.785h2.4c.442 0 .8.354.8.79 0 .435-.358.789-.8.789H43.8c-.442 0-.8-.354-.8-.79 0-.435.358-.789.8-.789h2.4v-9.617c0-.436.358-.79.8-.79.442 0 .8.354.8.79v9.617h6.4v-17.369c0-.435.358-.79.8-.79zM71 459c.04 0 .072.017.11.02.062.01.125.015.184.038.056.023.102.06.155.095.03.02.067.032.096.059l.008.01c.05.048.085.108.12.166.02.03.047.056.058.086.017.04.019.083.03.124.016.059.035.116.035.177 0 .005.004.008.004.014v4.737c0 .436-.357.79-.8.79-.442 0-.8-.354-.8-.79v-2.734l-6.688 7.077c-.148.156-.354.247-.572.25-.2-.004-.425-.08-.579-.23l-7.288-7.194-7.288 7.194c-.157.153-.361.23-.566.23-.205 0-.41-.077-.567-.23-.312-.31-.312-.808 0-1.118l7.856-7.751c.15-.147.352-.23.565-.23.213 0 .416.083.567.23l7.267 7.173 6.254-6.614H66.2c-.442 0-.8-.354-.8-.79 0-.437.358-.789.8-.789z"/>
+        <path id="f7gfflrx9i" d="M755.632 468.007l-2.487-.043 2.799-2.8.201-.199 1.706.896-2.22 2.146zm-11.787 11.192c0 1.687-1.37 3.058-3.054 3.058-1.685 0-3.057-1.371-3.057-3.058 0-1.686 1.372-3.057 3.057-3.057.55 0 1.062.158 1.509.416l-2.075 2.077c-.312.312-.312.817 0 1.13.157.156.361.235.566.235.205 0 .408-.079.565-.234l2.073-2.077c.258.448.416.958.416 1.51zm10.313-17.048l.845 1.69-.176.177-2.846 2.784v-2.472l2.177-2.18zm5.416 2.811l-3.018-1.59-1.463-2.932c-.114-.228-.333-.39-.588-.432-.252-.035-.51.042-.692.226l-3.199 3.2c-.148.149-.232.352-.232.565v4.469l-6.92 6.928c-.759-.534-1.677-.854-2.67-.854-2.569 0-4.657 2.09-4.657 4.657 0 2.57 2.088 4.658 4.656 4.658 2.565 0 4.653-2.088 4.653-4.658 0-.995-.319-1.913-.853-2.672l1.899-1.902c1.043 1.298 1.637 2.893 1.637 4.574 0 4.049-3.293 7.343-7.336 7.343-4.046 0-7.335-3.294-7.335-7.343 0-4.048 3.289-7.342 7.335-7.342.842 0 1.666.14 2.446.419.413.15.874-.07 1.023-.488.145-.414-.07-.874-.488-1.02-.952-.338-1.957-.511-2.98-.511-4.929 0-8.935 4.011-8.935 8.942 0 4.932 4.006 8.943 8.934 8.943 4.926 0 8.934-4.011 8.934-8.943 0-2.105-.758-4.107-2.098-5.712l1.613-1.613c1.765 2.034 2.74 4.604 2.74 7.325 0 6.175-5.021 11.2-11.189 11.2-6.17 0-11.191-5.025-11.191-11.2 0-6.174 5.02-11.2 11.191-11.2 1.662 0 3.264.358 4.757 1.06.398.188.876.018 1.065-.383.186-.4.016-.877-.384-1.066-1.709-.803-3.539-1.211-5.438-1.211-7.054 0-12.791 5.743-12.791 12.8 0 7.058 5.737 12.801 12.791 12.801 7.05 0 12.788-5.743 12.788-12.8 0-3.15-1.142-6.12-3.208-8.458l1.203-1.205 4.36.077h.014c.207 0 .407-.08.556-.226l3.25-3.144c.185-.178.273-.434.239-.687-.038-.254-.195-.476-.42-.595z"/>
+        <path id="j1qojzy34j" d="M395.709 461.294c-.094-.094-.206-.166-.326-.218-.246-.1-.52-.1-.766 0-.12.052-.232.124-.326.218l-5.998 5.998c-.39.39-.39 1.024 0 1.414.39.39 1.024.39 1.414 0l4.294-4.292V492c0 .552.446 1 1 1 .552 0 1-.448 1-1v-27.586l4.292 4.292c.196.196.452.294.708.294.254 0 .51-.098.706-.294.39-.39.39-1.024 0-1.414l-5.998-5.998zm23.998 25.412l-5.998 5.998c-.094.094-.206.166-.326.218-.124.05-.252.078-.382.078-.132 0-.26-.028-.384-.078-.12-.052-.232-.124-.326-.218l-5.998-5.998c-.39-.39-.39-1.024 0-1.414.39-.39 1.024-.39 1.414 0l4.294 4.294V462c0-.554.446-1 1-1 .552 0 1 .446 1 1v27.586l4.292-4.294c.39-.39 1.024-.39 1.414 0 .39.39.39 1.024 0 1.414z"/>
+        <rect id="h9h3fhsmib" width="1040" height="548" x="0" y="0" rx="16"/>
+        <rect id="a83ulnvt2f" width="32" height="32" x="0" y="0" rx="16"/>
+        <radialGradient id="igevvg7zwk" cx="50%" cy="0%" r="14958.984%" fx="50%" fy="0%" gradientTransform="matrix(0 1 -.00108 0 .5 -.5)">
+            <stop offset="0%" stop-color="#F5F7F8"/>
+            <stop offset="100%" stop-color="#E7EBEF"/>
+        </radialGradient>
+        <filter id="t4vb6ll6ca" width="103%" height="105.7%" x="-1.5%" y="-2.1%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-348 -600) translate(328 584)">
+                <g>
+                    <use fill="#000" filter="url(#t4vb6ll6ca)" xlink:href="#h9h3fhsmib"/>
+                    <use fill="#FFF" xlink:href="#h9h3fhsmib"/>
+                </g>
+                <text fill="#000" font-family="BentonSans-Light, BentonSans" font-size="24" font-weight="300">
+                    <tspan x="32" y="42">Financial Performance</tspan>
+                </text>
+                <text fill="#000" font-family="BentonSans" font-size="18">
+                    <tspan x="99" y="459">Deposits - Money In</tspan>
+                </text>
+                <circle cx="59.5" cy="476.5" r="27.5" fill="#53A8E2"/>
+                <circle cx="403.5" cy="476.5" r="27.5" fill="#76DDFB"/>
+                <circle cx="743.5" cy="476.5" r="27.5" fill="#03A"/>
+                <g>
+                    <g>
+                        <g transform="translate(32 74)">
+                            <mask id="8a6a5oaaud" fill="#fff">
+                                <use xlink:href="#sd2e0ogcec"/>
+                            </mask>
+                            <use fill="#FFF" xlink:href="#sd2e0ogcec"/>
+                            <path fill="#FFF" d="M0 0H260V40H0z" mask="url(#8a6a5oaaud)"/>
+                        </g>
+                        <g transform="translate(32 74)">
+                            <use fill="#C5C5C5" xlink:href="#uchyrk1zue"/>
+                        </g>
+                    </g>
+                    <g>
+                        <g>
+                            <g transform="translate(32 74) translate(212) translate(8 4)">
+                                <mask id="godh60fjlg" fill="#fff">
+                                    <use xlink:href="#a83ulnvt2f"/>
+                                </mask>
+                                <path d="M0 0H32V32H0z" mask="url(#godh60fjlg)"/>
+                            </g>
+                            <g fill="#333">
+                                <path d="M16.667 2.5h-.834V.833h-1.666V2.5H5.833V.833H4.167V2.5h-.834c-.916 0-1.666.75-1.666 1.667V17.5c0 .917.75 1.667 1.666 1.667h13.334c.916 0 1.666-.75 1.666-1.667V4.167c0-.917-.75-1.667-1.666-1.667zm0 15H3.333V8.333h13.334V17.5zm0-10.833H3.333v-2.5h13.334v2.5z" transform="translate(32 74) translate(212) translate(8 4) translate(6 6)"/>
+                            </g>
+                        </g>
+                    </g>
+                    <text fill="#616161" font-family="Helvetica" font-size="16" transform="translate(32 74)">
+                        <tspan x="16" y="23">MM/DD/YY - MM/DD/YY</tspan>
+                    </text>
+                </g>
+                <text fill="#000" font-family="BentonSans" font-size="18">
+                    <tspan x="443" y="458">Debits - Money Out</tspan>
+                </text>
+                <text fill="#000" font-family="BentonSans" font-size="18">
+                    <tspan x="783" y="458">Turnover</tspan>
+                </text>
+                <text fill="#03871A" font-family="BentonSans-Bold, BentonSans" font-size="24" font-weight="bold">
+                    <tspan x="99" y="492">+R 120 000.00</tspan>
+                </text>
+                <text fill="#000" font-family="BentonSans-Bold, BentonSans" font-size="24" font-weight="bold">
+                    <tspan x="443" y="490">-R30 000.00</tspan>
+                </text>
+                <text fill="#0068C3" font-family="BentonSans-Bold, BentonSans" font-size="24" font-weight="bold">
+                    <tspan x="783" y="490">R70 000.00</tspan>
+                </text>
+                <use fill="#FFF" xlink:href="#3vfffp8iwh"/>
+                <use fill="#FFF" xlink:href="#f7gfflrx9i"/>
+                <use fill="#FFF" xlink:href="#j1qojzy34j"/>
+                <g>
+                    <g>
+                        <g stroke="url(#igevvg7zwk)" stroke-linecap="square" stroke-width=".6" transform="translate(32 146) translate(0 15) translate(34 7)">
+                            <path d="M0 .5L929 .5M0 39.5L929 39.5M0 78.5L929 78.5M0 117.5L929 117.5M0 156.5L929 156.5M0 195.5L929 195.5"/>
+                        </g>
+                        <g fill="#485465" font-size="10" letter-spacing=".12">
+                            <text font-family="BentonSans" transform="translate(32 146) translate(0 15)">
+                                <tspan x="22.27" y="202">0</tspan>
+                            </text>
+                            <text font-family="BentonSans" transform="translate(32 146) translate(0 15)">
+                                <tspan x="17.49" y="163">5k</tspan>
+                            </text>
+                            <text font-family="BentonSans" transform="translate(32 146) translate(0 15)">
+                                <tspan x="12.26" y="124">10k</tspan>
+                            </text>
+                            <text font-family="BentonSans" transform="translate(32 146) translate(0 15)">
+                                <tspan x="13" y="85">15k</tspan>
+                            </text>
+                            <text font-family="BentonSans" transform="translate(32 146) translate(0 15)">
+                                <tspan x="10.71" y="46">20k</tspan>
+                            </text>
+                            <text font-family="BentonSans" transform="translate(32 146) translate(0 15)">
+                                <tspan x="11.45" y="7">25k</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="63.17" y="220">Jan</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="144.885" y="220">Feb</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="203.28" y="220">Mar</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="287.02" y="220">Apr</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="365.595" y="220">May</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="443.965" y="220">Jun</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="532.585" y="220">Jul</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="612.09" y="220">Aug</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="671.355" y="220">Sep</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="755.01" y="220">Oct</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="834.19" y="220">Nov</tspan>
+                            </text>
+                            <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(32 146) translate(0 15)">
+                                <tspan x="911.46" y="220">Dec</tspan>
+                            </text>
+                        </g>
+                        <g>
+                            <g>
+                                <path fill="#53A8E2" stroke="#66C2F5" d="M83.5 66.5v17h-149v-17h149z" transform="translate(32 146) translate(0 15) translate(55 33) translate(0 20) rotate(90 9 75)"/>
+                                <path fill="#67DAFB" d="M-13 101L67 101 67 119 -13 119z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(0 20) rotate(90 27 110)"/>
+                            </g>
+                            <g>
+                                <path fill="#53A8E2" stroke="#66C2F5" d="M70.5 53.5v17h-123v-17h123z" transform="translate(32 146) translate(0 15) translate(55 33) translate(384 46) rotate(90 9 62)"/>
+                                <path fill="#67DAFB" d="M-15 73L69 73 69 91 -15 91z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(384 46) rotate(90 27 82)"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <path fill="#53A8E2" stroke="#66C2F5" d="M44.5 27.5v17h-70v-17h70z" transform="translate(32 146) translate(0 15) translate(55 33) translate(81 78.5) translate(0 20) rotate(90 9.5 36)"/>
+                                    <path fill="#67DAFB" d="M7 42L48 42 48 60 7 60z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(81 78.5) translate(0 20) rotate(90 27.5 51)"/>
+                                </g>
+                                <path fill="#53A8E2" stroke="#66C2F5" d="M97.5 52.5v17h-60v-17h60z" transform="translate(32 146) translate(0 15) translate(55 33) translate(81 78.5) rotate(90 67.5 61)"/>
+                                <path fill="#67DAFB" d="M40 37L131 37 131 55 40 55z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(81 78.5) rotate(90 85.5 46)"/>
+                            </g>
+                            <g>
+                                <path fill="#53A8E2" stroke="#66C2F5" d="M60.5 43.5v17h-103v-17h103z" transform="translate(32 146) translate(0 15) translate(55 33) translate(221 66) rotate(90 9 52)"/>
+                                <path fill="#67DAFB" d="M-15 53L69 53 69 71 -15 71z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(221 66) rotate(90 27 62)"/>
+                            </g>
+                            <g>
+                                <path fill="#53A8E2" stroke="#66C2F5" d="M93.5 76.5v17h-169v-17h169z" transform="translate(32 146) translate(0 15) translate(55 33) translate(303) rotate(90 9 85)"/>
+                                <path fill="#67DAFB" d="M7 141L47 141 47 159 7 159z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(303) rotate(90 27 150)"/>
+                            </g>
+                            <g>
+                                <path fill="#53A8E2" stroke="#66C2F5" d="M83.5 66.5v17h-149v-17h149z" transform="translate(32 146) translate(0 15) translate(55 33) translate(465 20) rotate(90 9 75)"/>
+                                <path fill="#67DAFB" d="M-13 101L67 101 67 119 -13 119z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(465 20) rotate(90 27 110)"/>
+                            </g>
+                            <g>
+                                <path fill="#53A8E2" stroke="#66C2F5" d="M70.5 53.5v17h-123v-17h123z" transform="translate(32 146) translate(0 15) translate(55 33) translate(849 46) rotate(90 9 62)"/>
+                                <path fill="#67DAFB" d="M-15 73L69 73 69 91 -15 91z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(849 46) rotate(90 27 82)"/>
+                            </g>
+                            <g>
+                                <g>
+                                    <path fill="#53A8E2" stroke="#66C2F5" d="M44.5 27.5v17h-70v-17h70z" transform="translate(32 146) translate(0 15) translate(55 33) translate(546 78.5) translate(0 20) rotate(90 9.5 36)"/>
+                                    <path fill="#67DAFB" d="M7 42L48 42 48 60 7 60z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(546 78.5) translate(0 20) rotate(90 27.5 51)"/>
+                                </g>
+                                <path fill="#53A8E2" stroke="#66C2F5" d="M97.5 52.5v17h-60v-17h60z" transform="translate(32 146) translate(0 15) translate(55 33) translate(546 78.5) rotate(90 67.5 61)"/>
+                                <path fill="#67DAFB" d="M40 37L131 37 131 55 40 55z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(546 78.5) rotate(90 85.5 46)"/>
+                            </g>
+                            <g>
+                                <path fill="#53A8E2" stroke="#66C2F5" d="M60.5 43.5v17h-103v-17h103z" transform="translate(32 146) translate(0 15) translate(55 33) translate(687 66) rotate(90 9 52)"/>
+                                <path fill="#67DAFB" d="M-15 53L69 53 69 71 -15 71z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(687 66) rotate(90 27 62)"/>
+                            </g>
+                            <g>
+                                <path fill="#53A8E2" stroke="#66C2F5" d="M93.5 76.5v17h-169v-17h169z" transform="translate(32 146) translate(0 15) translate(55 33) translate(768) rotate(90 9 85)"/>
+                                <path fill="#67DAFB" d="M7 141L47 141 47 159 7 159z" opacity=".9" transform="translate(32 146) translate(0 15) translate(55 33) translate(768) rotate(90 27 150)"/>
+                            </g>
+                        </g>
+                        <g transform="translate(32 146) translate(0 15) translate(77 80)">
+                            <path fill="#485465" d="M0 .997C0 .447.442 0 1 0h120c.552 0 1 .457 1 .997v64.006c0 .55-.457.997-1.01.997H66.21c-.558 0-1.354.283-1.779.633L59.9 70.367c-.424.35-1.11.35-1.534 0l-4.515-3.734c-.423-.35-1.209-.633-1.767-.633H1C.448 66 0 65.543 0 65.003V.997z" opacity=".9"/>
+                            <circle cx="17" cy="31" r="4" fill="#53A8E2"/>
+                            <circle cx="17" cy="47" r="4" fill="#70E4F9"/>
+                            <text fill="#FFF" font-family="Helvetica" font-size="11" letter-spacing=".092">
+                                <tspan x="84" y="33">800</tspan> <tspan x="84" y="49">50</tspan> <tspan x="96.419" y="49" letter-spacing=".084">0</tspan>
+                            </text>
+                            <text fill="#FFF" font-family="BentonSans" font-size="11" opacity=".8">
+                                <tspan x="29" y="32">Deposits: </tspan> <tspan x="29" y="47">Debits: </tspan>
+                            </text>
+                            <text fill="#FFF" font-family="Helvetica" font-size="11" letter-spacing=".066" opacity=".4">
+                                <tspan x="13" y="17">February</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g>
+                        <g transform="translate(32 146) translate(837) translate(79)">
+                            <text fill="#485465" font-family="BentonSans" font-size="11" letter-spacing="-.066">
+                                <tspan x="15" y="8">Debits</tspan>
+                            </text>
+                            <circle cx="4.5" cy="4.5" r="4.5" fill="#70E4F9"/>
+                        </g>
+                        <g transform="translate(32 146) translate(837)">
+                            <text fill="#485465" font-family="BentonSans" font-size="11" letter-spacing="-.066">
+                                <tspan x="15" y="8">Deposits</tspan>
+                            </text>
+                            <circle cx="4.5" cy="4.5" r="4.5" fill="#53A8E2"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

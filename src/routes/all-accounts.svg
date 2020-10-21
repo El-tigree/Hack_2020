@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="423" height="455" viewBox="0 0 423 455">
+    <defs>
+        <rect id="2w7fzsrw6b" width="1040" height="564" x="0" y="0" rx="16"/>
+        <rect id="taaqwjj2oc" width="310.8" height="48" x="0" y="0" rx="24"/>
+        <filter id="riirx265ia" width="103%" height="105.5%" x="-1.5%" y="-2%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <path fill="#FBFBFB" d="M0 0H1440V1151H0z" transform="translate(-637 -588)"/>
+            <path fill="#F5F6F7" d="M0 0H1440V1912H0z" transform="translate(-637 -588)"/>
+            <g transform="translate(-637 -588) translate(328 534)">
+                <use fill="#000" filter="url(#riirx265ia)" xlink:href="#2w7fzsrw6b"/>
+                <use fill="#FFF" xlink:href="#2w7fzsrw6b"/>
+            </g>
+            <g>
+                <text fill="#616161" font-family="Helvetica" font-size="14" transform="translate(-637 -588) translate(648 598)">
+                    <tspan x="8.57" y="206">Cash Flow Forecasting requires data for calculating balances, </tspan> <tspan x="110.89" y="227">cash in and cash out figures.</tspan>
+                </text>
+                <g fill="#2E7D32">
+                    <path d="M48 8C25.92 8 8 25.92 8 48s17.92 40 40 40 40-17.92 40-40S70.08 8 48 8zm0 72c-17.64 0-32-14.36-32-32s14.36-32 32-32 32 14.36 32 32-14.36 32-32 32zm18.36-49.68L40 56.68 29.64 46.36 24 52l16 16 32-32-5.64-5.68z" transform="translate(-637 -588) translate(648 598) translate(152)"/>
+                </g>
+                <text fill="#000" font-family="BentonSans-Bold, BentonSans" font-size="24" font-weight="bold" transform="translate(-637 -588) translate(648 598)">
+                    <tspan x="121.58" y="149">Confirmation</tspan>
+                </text>
+                <text fill="#000" font-family="BentonSans" font-size="16" transform="translate(-637 -588) translate(648 598)">
+                    <tspan x="9.064" y="175">We with debit this account, when re-payment is due</tspan>
+                </text>
+            </g>
+            <g>
+                <g transform="translate(-637 -588) translate(693 866)">
+                    <mask id="0356cjxpyd" fill="#fff">
+                        <use xlink:href="#taaqwjj2oc"/>
+                    </mask>
+                    <use fill="#FFF" xlink:href="#taaqwjj2oc"/>
+                    <path fill="#0079C9" d="M0 0H310.8V48H0z" mask="url(#0356cjxpyd)"/>
+                </g>
+                <text fill="#FFF" font-family="Helvetica" font-size="16" transform="translate(-637 -588) translate(693 866)">
+                    <tspan x="132.287" y="25.6">DONE</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

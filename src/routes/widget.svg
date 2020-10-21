@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="776" height="770" viewBox="0 0 776 770">
+    <defs>
+        <rect id="p6gojgcpgb" width="1040" height="886" x="0" y="0" rx="16"/>
+        <rect id="7ujqxnoj9d" width="310.8" height="48" x="0" y="0" rx="24"/>
+        <rect id="hsjzsxc8ve" width="310.8" height="48" x="0" y="0" rx="24"/>
+        <path id="52xc3656ec" d="M0 0H776V104H0z"/>
+        <path id="nm2q8pv40g" d="M10.256 0h691.488c3.567 0 4.86.371 6.163 1.069 1.304.697 2.327 1.72 3.024 3.024.698 1.303 1.069 2.596 1.069 6.163v35.488c0 3.567-.371 4.86-1.069 6.163-.697 1.304-1.72 2.327-3.024 3.024-1.303.698-2.596 1.069-6.163 1.069H10.256c-3.567 0-4.86-.371-6.163-1.069-1.304-.697-2.327-1.72-3.024-3.024C.37 50.604 0 49.311 0 45.744V10.256c0-3.567.371-4.86 1.069-6.163.697-1.304 1.72-2.327 3.024-3.024C5.396.37 6.689 0 10.256 0z"/>
+        <filter id="wqwopf9lua" width="103%" height="103.5%" x="-1.5%" y="-1.3%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <path fill="#FBFBFB" d="M0 0H1440V1469H0z" transform="translate(-460 -547)"/>
+            <path fill="#F5F6F7" d="M0 0H1440V1469H0z" transform="translate(-460 -547)"/>
+            <g transform="translate(-460 -547) translate(328 534)">
+                <use fill="#000" filter="url(#wqwopf9lua)" xlink:href="#p6gojgcpgb"/>
+                <use fill="#FFF" xlink:href="#p6gojgcpgb"/>
+            </g>
+            <g fill="#000">
+                <g>
+                    <text font-family="BentonSans-Bold, BentonSans" font-size="24" font-weight="bold" transform="translate(-460 -547) translate(24 120)">
+                        <tspan x="466" y="456">Payment summary</tspan>
+                    </text>
+                    <text font-family="BentonSans" font-size="16" transform="translate(-460 -547) translate(24 120)">
+                        <tspan x="466" y="482">We with debit this account, when re-payment is due</tspan>
+                    </text>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <g transform="translate(-460 -547) translate(460 547) translate(0 176) translate(0 490)"/>
+                    <g fill="#DEDEDE">
+                        <path d="M0 0H712V1H0z" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(32 379)"/>
+                    </g>
+                    <g>
+                        <g transform="translate(-460 -547) translate(460 547) translate(0 176) translate(63 444)">
+                            <use fill="#FFF" stroke="#0079C9" stroke-width="2" xlink:href="#7ujqxnoj9d"/>
+                        </g>
+                        <text fill="#0079C9" font-family="Helvetica" font-size="16" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(63 444)">
+                            <tspan x="122.947" y="25.6">CANCEL</tspan>
+                        </text>
+                    </g>
+                    <g>
+                        <g transform="translate(-460 -547) translate(460 547) translate(0 176) translate(402 444)">
+                            <mask id="l7be4w9dof" fill="#fff">
+                                <use xlink:href="#hsjzsxc8ve"/>
+                            </mask>
+                            <use fill="#FFF" xlink:href="#hsjzsxc8ve"/>
+                            <path fill="#0079C9" d="M0 0H310.8V48H0z" mask="url(#l7be4w9dof)"/>
+                        </g>
+                        <text fill="#FFF" font-family="Helvetica" font-size="16" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(402 444)">
+                            <tspan x="77.177" y="25.6">CONFIRM REQUEST</tspan>
+                        </text>
+                    </g>
+                    <g fill="#DEDEDE">
+                        <path d="M0 0H712V1H0z" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(32 127)"/>
+                    </g>
+                    <g fill="#000" font-size="16">
+                        <text font-family="Helvetica" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(404.733 188)">
+                            <tspan x="0" y="15">Payment reference</tspan>
+                        </text>
+                        <text font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(404.733 188)">
+                            <tspan x="0" y="36">Village Walk View Sandton Cement</tspan>
+                        </text>
+                    </g>
+                    <g font-size="16">
+                        <text fill="#000" font-family="Helvetica" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(32 188)">
+                            <tspan x="0" y="15">To</tspan>
+                        </text>
+                        <text fill="#000" font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(32 188)">
+                            <tspan x="0" y="36">PPC Cement - Centurion</tspan>
+                        </text>
+                        <text fill="#616161" font-family="BentonSans" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(32 188)">
+                            <tspan x="0" y="84">Standard Bank SA</tspan> <tspan x="0" y="108">622005</tspan> <tspan x="0" y="132">1000 4567 1234 9088</tspan>
+                        </text>
+                    </g>
+                    <g fill="#000">
+                        <text font-family="Helvetica" font-size="16" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(404)">
+                            <tspan x="0" y="15">Amount</tspan>
+                        </text>
+                        <text font-family="BentonSans-Bold, BentonSans" font-size="20" font-weight="bold" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(404)">
+                            <tspan x="0" y="39">R60 000.00</tspan>
+                        </text>
+                    </g>
+                    <g font-size="16">
+                        <text fill="#000" font-family="Helvetica" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(32)">
+                            <tspan x="0" y="15">From</tspan>
+                        </text>
+                        <text fill="#000" font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(32)">
+                            <tspan x="0" y="36">Khumalo Construction - MyMoBiz</tspan>
+                        </text>
+                        <text fill="#616161" font-family="BentonSans-Bold, BentonSans" font-weight="bold" transform="translate(-460 -547) translate(460 547) translate(0 176) translate(32)">
+                            <tspan x="0" y="60">•••••8927</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g>
+                    <g transform="translate(-460 -547) translate(460 547) translate(32 96)">
+                        <mask id="fa3d5rshdh" fill="#fff">
+                            <use xlink:href="#nm2q8pv40g"/>
+                        </mask>
+                        <path fill="#2E7D32" d="M0 0H712V56H0z" mask="url(#fa3d5rshdh)"/>
+                    </g>
+                    <g fill="#FFF">
+                        <text font-family="Helvetica" font-size="16" transform="translate(-460 -547) translate(460 547) translate(32 96) translate(16 16)">
+                            <tspan x="32" y="15">Payment details added successfully</tspan>
+                        </text>
+                        <g>
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm4.59-12.42L10 14.17l-2.59-2.58L6 13l4 4 8-8-1.41-1.42z" transform="translate(-460 -547) translate(460 547) translate(32 96) translate(16 16)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
