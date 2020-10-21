@@ -130,7 +130,6 @@ const useStyles = makeStyles((theme) => ({
   cardGrid: {
     flexGrow: 1,
     position: 'relative',
-    zIndex: '11000',
     top: 120,
     marginLeft: -200
   },
