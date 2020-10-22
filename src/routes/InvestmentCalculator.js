@@ -568,6 +568,11 @@ function InvestmentCalculator() {
 			</Paper>
 
       	</Box>
+		  <Box >
+		<Typography style={{fontWeight: 'bold', fontSize: '34px', color: "#FFFFFF", }} variant='h5'>
+			Apply for FundThat Investment
+            </Typography>
+		</Box>
 
       </main>
       
